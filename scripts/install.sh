@@ -4,4 +4,4 @@
 #
 
 # Introseite
-bash -x /opt/lernmaas/helper/intro.sh
+bash -x /opt/lernmaas/helper/intro
